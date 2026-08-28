@@ -1,0 +1,6 @@
+{
+  "name": "Centident - Suministros Odontológicos",
+  "description": "Landing page y catálogo de productos y suministros odontológicos profesionales con cotizador y checkout directo por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
